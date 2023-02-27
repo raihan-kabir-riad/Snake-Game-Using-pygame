@@ -1,1 +1,1 @@
-# Snake-Game-Using-pygame
+# Snake Game Using Python (pygame)
