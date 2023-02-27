@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Feb 27 13:31:50 2023
+
+@author: Raihan Kabir - raihan.kabir.cse@gmail.com - [University of Aizu]
+"""
 import pygame 
 import time 
 
